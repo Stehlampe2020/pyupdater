@@ -1,12 +1,7 @@
 [
   {
     "ver": "0.0.0",
-    "download": "https://github.com/Stehlampe2020/",
-    "type": "pre-alpha"
-  },
-  {
-    "ver": "dyn-latest",
-    "download": "https://github.com/Stehlampe2020/pyupdater/releases/latest/source.zip",
-    "type": "dyn-latest"
+    "download": "https://github.com/Stehlampe2020/pyupdater/archive/refs/tags/v0.0.0.zip",
+    "type": "pre-alpha,source"
   }
 ]

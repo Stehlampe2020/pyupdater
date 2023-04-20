@@ -8,6 +8,7 @@
 # Insert your settings into the below dict:
 conf = {
     'ver_url': 'https://raw.githubusercontent.com/Stehlampe2020/pyupdater/main/versions.json',
+               # An example versions.json is included in the repo which is also used to update pyupdater
     'upd_type': 'zip', # others may later get implemented
     'progress': True, # Wether a progress animation should be shown
     'prefer_stable': True # If set to False the version with the highest number will be preferred
